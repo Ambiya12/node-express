@@ -7,7 +7,7 @@ const games = [
     {
         id: 2,
         title: 'Tomb Raider',
-        genre: 'Drama'
+        genre: 'Adventure'
     },
     {
         id: 3,
